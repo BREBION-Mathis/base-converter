@@ -1,5 +1,5 @@
 {
-  "name": "@brebion-mathis/base64",
+  "name": "@brebion-mathis/base-converter",
   "version": "1.0.0",
   "description": "This package includes the conversion of numbers from binary base to 36 and also includes base 64.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BREBION-Mathis/base-converter.git"
+    "url": "https://github.com/BREBION-Mathis/base-converter.git"
   },
   "keywords": [
     "base",
